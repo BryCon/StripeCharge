@@ -1,0 +1,24 @@
+{
+  "name": "stripecharge",
+  "version": "1.0.0",
+  "description": "Test Api",
+  "main": "stripecharge-bin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryCon/StripeCharge.git"
+  },
+  "author": "bry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryCon/StripeCharge/issues"
+  },
+  "homepage": "https://github.com/BryCon/StripeCharge#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "content-disposition": "^0.5.1",
+    "express": "^4.13.4"
+  }
+}
